@@ -6,7 +6,7 @@ Kimberlee Wong - December 7, 2024
 
 This repository includes one notebook and one data folder. This notebook shows the process of using both a shapefile and a collection from the Microsoft Planetary Computer STAC catalog to visualize differences in the Biodiversity Intactness Index in Phoenix, Arizona from 2017 to 2020. Percentages were calculated and then visualized. The data folder includes the shapefile that has all the counties of Arizona.
 
-![image]([https://github.com/user-attachments/assets/959812ec-8bf3-4a87-b1f8-e3de545e649b](https://www.nhm.ac.uk/content/dam/nhmwww/our-science/Data/biodiversity-indicators/global-map-bii-two-column.jpg.thumb.1920.1920.jpg))
+![image](https://www.nhm.ac.uk/content/dam/nhmwww/our-science/Data/biodiversity-indicators/global-map-bii-two-column.jpg.thumb.1920.1920.jpg)
 
 ## Repository Structure
 ```
