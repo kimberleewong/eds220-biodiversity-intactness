@@ -12,11 +12,9 @@ This repository includes one notebook and one data folder. This notebook shows t
 ```
 eds220-biodiversity-intactness
 │
-├── README.md                     
-├── hwk4-task2-false-color-wong.ipynb
-├── hwk2-task3-aqi-wong.ipynb                       
+├── README.md                                          
 ├── .gitignore
-├── thomas-fire-blog.ipynb                  
+├── biodiversity_intactness_index.ipynb              
 │
 ├── data/                      
 │   ├── tl_2020_04_cousub/
@@ -42,3 +40,5 @@ Microsoft Planetary Computer Data Catalogue, Biodiversity Intactness. Available 
 United States Census Bureau. 2020 version. Available from: https://www.census.gov/cgi-bin/geo/shapefiles/index.php Access date: December 7, 2024
 
 Biodiversity intactness index. Natural History Museum. (n.d.). https://www.nhm.ac.uk/our-science/services/data/biodiversity-intactness-index.html 
+
+Assignment came from UCSB Masters of Environmental Data Science class, EDS 220 - Working with Environmental Data Science. Class is taught by Carmen Galaz Garcia.
