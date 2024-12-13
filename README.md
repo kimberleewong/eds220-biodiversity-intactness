@@ -29,9 +29,9 @@ eds220-biodiversity-intactness
 
 ## Data
 
-The biodiversity intactness data comes from Microsoft Planetary Computer Data Catalogue.
+The biodiversity intactness data comes from Microsoft Planetary Computer Data Catalogue. The data is not located in this repository and can be accessed from the link in references.
 
-The Arizona shapefile, that was filtered to Phoenix in this notebook, comes from the United States Census Bureau. 
+The Arizona shapefile, that was filtered to Phoenix in this notebook, comes from the United States Census Bureau. It is available in this repository under the data folder. 
 
 ## References
 
